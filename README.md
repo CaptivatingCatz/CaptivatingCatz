@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my github profile. CaptivatingCatz is my personal brand where i make content around video games, development, and music.
+Feel free to reach out if you have questions or comments.
+
 <!--
 **CaptivatingCatz/CaptivatingCatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
