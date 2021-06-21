@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github profile. CaptivatingCatz is my personal brand where i make content around video games, development, and music.
+Welcome to my github profile. CaptivatingCatz is my personal brand where i make content around video games, development, crypto and music.
 Feel free to reach out if you have questions or comments.
 
 <!--
